@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">Zodiak app</string>
+    <string name="zodiak">Zodiak adalah rasi bintang yang memiliki keunikan terhadap karakter sesuai zodiaknya yang di bagi menjadi 12</string>
+    <string name="tanggal_lahir">Tanggal lahir</string>
+    <string name="bulan_lahir">Bulan Lahir</string>
+    <string name="bulan">Sebagai</string>
+    <string name="januari">Cowo</string>
+    <string name="februari">Cewe</string>
+    <string name="tombol">Cari!</string>
+    <string name="tanggalLahir">Tanggal lahir tidak boleh kosong</string>
+    <string name="bulanLahir">Bulan tidak boleh kosong</string>
+    <string name="pilih_sebagai">Sebagai tidak boleh kosong</string>
+    <string name="zodiak_x">kecocokan : %1s Persen</string>
+    <string name="deskripsi_x">Cocok dengan %1s </string>
+    <string name="salahBulan">Anda mengklik bulan yg salah</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="pisces">Pisces</string>
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagiturius">Sagitarius</string>
+    <string name="capricorn">Capricorn</string>
 </resources>
